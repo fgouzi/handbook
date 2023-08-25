@@ -2,7 +2,7 @@
 title: Plateforme de métadonnées pour la Suisse
 description: "La plateforme d’interopérabilité I14Y est le répertoire centralisé suisse des métadonnées, des interfaces électroniques et des prestations des autorités (services publics). Elle propose par ailleurs des outils permettant l’utilisation multiple des données et réduit ainsi la charge de travail des entreprises, des citoyens et des autorités."
 slug: introduction
-keywords: [I14Y, plateforme d’interopérabilité I14Y, IOP, introduction, interopérabilité, utilisation multiple, Suisse, jeu de données, interface électronique, jeux de données, interfaces électroniques, API, principe once-only, utilisation secondaire de données, harmonisation, standardisation]
+keywords: [I14Y, plateforme d’interopérabilité I14Y, IOP, introduction, interopérabilité, utilisation multiple, Suisse, jeu de données, interface électronique (API), jeux de données, interfaces électroniques, API, principe once-only, utilisation secondaire de données, harmonisation, standardisation]
 weight: 0
 type: docs
 ---
@@ -72,7 +72,7 @@ L’IOP I14Y contribue ainsi à l’harmonisation sémantique de l’écosystèm
 
 {{<alert title="Que signifie I14Y?" color="info">}}
 
-Les informaticiens n’aiment pas les saisies trop longues. C’est pourquoi ils recourent volontiers aux abréviations, surtout pour les termes ou expressions dont la saisie engendre souvent des coquilles. Par exemple _interoperability_. Dans le monde du développement de logiciels, ce mot anglais est souvent abrégé en _I14Y_. Le nombre 14 renvoie au nombre de lettres qui séparent le I initial et le Y final. Autres exemples de numéronymes (mots où des chiffres sont utilisés pour créer une abréviation): a11y (_accessibility_), i18n (_internationalization_) et o11y (_observability_).
+Les informaticiens n’aiment pas les saisies trop longues. C’est pourquoi ils recourent volontiers aux abréviations, surtout pour les termes ou expressions dont la saisie engendre souvent des fautes de frappe. Par exemple _interoperability_. Dans le monde du développement de logiciels, ce mot anglais est souvent abrégé en _I14Y_. Le nombre 14 renvoie au nombre de lettres qui séparent le I initial et le Y final. Autres exemples de numéronymes (mots où des chiffres sont utilisés pour créer une abréviation): a11y (_accessibility_), i18n (_internationalization_) et o11y (_observability_).
 
 {{</alert>}}
 
@@ -108,7 +108,7 @@ Vous souhaitez être informés des nouvelles fonctions et des offres de la plate
 
 Le présent manuel décrit les principales fonctions de la plateforme d’interopérabilité I14Y. Vous y trouverez des instructions pas à pas, ainsi que des données techniques et des informations de fond relatives à l’harmonisation et à la standardisation des données.
 
-Le premier chapitre décrit les rôles et les processus](/handbook/de/2_rollen_prozesse) en lien avec l’administration des données. Le chapitre [Recherche de métadonnées](/handbook/de/3_metadaten_abrufen) indique comment rechercher des informations sur la plateforme. Le chapitre [Publication de métadonnées](/handbook/de/4_publikation) explique comment les descriptions des jeux de données, des interfaces électroniques et des éléments de données sont publiées sur la plateforme, et comment compléter le répertoire des prestations administratives. 
+Le premier chapitre décrit les [rôles et les processus](/handbook/de/2_rollen_prozesse) en lien avec l’administration des données. Le chapitre [Recherche de métadonnées](/handbook/de/3_metadaten_abrufen/) indique comment rechercher des informations sur la plateforme. Le chapitre [Publication de métadonnées](/handbook/de/4_publikation) explique comment les descriptions des jeux de données, des interfaces électroniques et des éléments de données sont publiées sur la plateforme, et comment compléter le répertoire des prestations administratives. 
 
 <!--Später ergänzen: Le manuel intègre également quelques tutoriels vidéo. --> 
 Le manuel comprend par ailleurs un [glossaire](/handbook/de/7_glossar), une [liste de liens](/handbook/de/6_anhang/weblinks), une vue d’ensemble des [organisations partenaires](/handbook/de/8_partner) et un [journal (log)(/handbook/de/6_anhang/changelog) indiquant les principaux changements apportés à la plateforme.
